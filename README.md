@@ -12,4 +12,4 @@ I used the tools below to work on these technologies.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/html5.png" width="40" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/css-3.png" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/bootstrap-5-1.png" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/material-ui-1.png" width="40" height="50"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&layout=compact&langs_count=8&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&layout=compact&langs_count=10&theme=calm)
