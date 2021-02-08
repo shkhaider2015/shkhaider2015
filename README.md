@@ -3,7 +3,7 @@ I am a software engineer and I have worked on :heavy_check_mark: **Android** ,:h
 In addition, I am interested in :heavy_check_mark: **Machine Learning** and :heavy_check_mark: **Data Science**.  
 I used the tools below to work on these technologies.  
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?shkhaider2015=CharalambosIoannou&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&theme=tokyonight)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Android Development" src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/android.png" width="40" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/flask.png" width="40" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/react.png" width="43" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/java.png" width="40" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/python.png" width="40" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/javascript-1%202.png" width="40" height="50"/>  
 
 
