@@ -12,4 +12,4 @@ I used the tools below to work on these technologies.\
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[comment]: <> (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&layout=compact&langs_count=10&theme=calm))
+[//]: <> (https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&layout=compact&langs_count=10&theme=calm)
