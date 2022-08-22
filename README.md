@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer and I have worked on :heavy_check_mark: **Android** ,:heavy_check_mark: **Web**, and:heavy_check_mark: **Desktop** development.  
+I am a software engineer and I have worked on :heavy_check_mark: **Mobile** ,:heavy_check_mark: **Web**, and:heavy_check_mark: **Desktop** development.  
 In addition, I am interested in :heavy_check_mark: **Machine Learning** and :heavy_check_mark: **Data Science**.  
 I used the tools below to work on these technologies.\
 \
