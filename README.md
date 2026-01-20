@@ -4,14 +4,14 @@ I’m a Full Stack Developer with 5+ years of experience building high-performan
 <br />
 🟢 Front-end Tools ⭐⭐⭐⭐⭐
 
-   &nbsp;&nbsp;&nbsp;&nbsp; ReactJS · NextJS · RemixJS · AngularJS · Redux · Zustand · Formik · React Query · Yup · JavaScrpt · TypeScript · Material UI · ShadCN · AntDesign · Tailwind · HTML · CSS · SASS  
+   ReactJS · NextJS · RemixJS · AngularJS · Redux · Zustand · Formik · React Query · Yup · JavaScrpt · TypeScript · Material UI · ShadCN · AntDesign · Tailwind · HTML · CSS · SASS  
 
 <br />
 <br />
 
 🥦 Back-end Tools ⭐⭐⭐⭐
 
-   &nbsp;&nbsp;&nbsp;&nbsp; NestJS · Flask · Django · PostgreSQL · MySQL · Firebase Database · MongoDB · TypeORM · Sequelize · Prisma · Redis · Docker · Python · TypeScript  
+   NestJS · Flask · Django · PostgreSQL · MySQL · Firebase Database · MongoDB · TypeORM · Sequelize · Prisma · Redis · Docker · Python · TypeScript  
 <br />
 <br />
 🚀 I specialize in:  
