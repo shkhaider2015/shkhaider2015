@@ -1,24 +1,29 @@
 ### Hi there 👋
 I’m a Full Stack Developer with 5+ years of experience building high-performance web applications.
-
+<br />
+<br />
 🟢 Front-end Tools ⭐⭐⭐⭐⭐
 
-   ReactJS · NextJS · RemixJS · AngularJS · Redux · Zustand · Formik · React Query · Yup · JavaScrpt · TypeScript · Material UI · ShadCN · AntDesign · Tailwind · HTML · CSS · SASS  
+   &nbsp;&nbsp;&nbsp;&nbsp; ReactJS · NextJS · RemixJS · AngularJS · Redux · Zustand · Formik · React Query · Yup · JavaScrpt · TypeScript · Material UI · ShadCN · AntDesign · Tailwind · HTML · CSS · SASS  
 
-
+<br />
+<br />
 
 🥦 Back-end Tools ⭐⭐⭐⭐
 
-   NestJS · Flask · Django · PostgreSQL · MySQL · Firebase Database · MongoDB · TypeORM · Sequelize · Prisma · Redis · Docker · Python · TypeScript  
-
+   &nbsp;&nbsp;&nbsp;&nbsp; NestJS · Flask · Django · PostgreSQL · MySQL · Firebase Database · MongoDB · TypeORM · Sequelize · Prisma · Redis · Docker · Python · TypeScript  
+<br />
+<br />
 🚀 I specialize in:  
-    ✅ End-to-end web application development  
-    ✅ Clean, maintainable, and scalable architecture  
-    ✅ REST / GraphQL APIs & modern full-stack workflows 
+   &nbsp;&nbsp;&nbsp;&nbsp; ✅ End-to-end web application development  
+   &nbsp;&nbsp;&nbsp;&nbsp; ✅ Clean, maintainable, and scalable architecture  
+   &nbsp;&nbsp;&nbsp;&nbsp; ✅ REST / GraphQL APIs & modern full-stack workflows 
 
 
 
-
+<br />
+<br />
+<br />
 <!-- First Line  -->
 <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/react.png" width="70" height="70" />            <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/nextjs.png" width="70" height="70"  />            <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/remix.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/angular.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/redux.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/threejs.png" width="70" height="70" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/nestjs.png" width="70" height="70"  />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/flask.png" width="70" height="70"  />    
 
