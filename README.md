@@ -1,15 +1,22 @@
 ### Hi there 👋
-I’m a Full Stack Developer with 5+ years of experience building high-performance web applications.  
-🟢 Front-end Tools ⭐⭐⭐⭐⭐  
+I’m a Full Stack Developer with 5+ years of experience building high-performance web applications.
+
+🟢 Front-end Tools ⭐⭐⭐⭐⭐
+
    ReactJS · NextJS · RemixJS · AngularJS · Redux · Zustand · Formik · React Query · Yup · JavaScrpt · TypeScript · Material UI · ShadCN · AntDesign · Tailwind · HTML · CSS · SASS  
 
-🥦 Back-end Tools ⭐⭐⭐⭐  
+
+
+🥦 Back-end Tools ⭐⭐⭐⭐
+
    NestJS · Flask · Django · PostgreSQL · MySQL · Firebase Database · MongoDB · TypeORM · Sequelize · Prisma · Redis · Docker · Python · TypeScript  
 
 🚀 I specialize in:  
     ✅ End-to-end web application development  
     ✅ Clean, maintainable, and scalable architecture  
     ✅ REST / GraphQL APIs & modern full-stack workflows 
+
+
 
 
 <!-- First Line  -->
@@ -23,8 +30,9 @@ I’m a Full Stack Developer with 5+ years of experience building high-performan
 <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/typescript.png" width="70" height="70"  />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/python.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/git.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/github.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/docker.png" width="70" height="70" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/aws.png" width="70" height="70"  />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/figma.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/tensorflow.png" width="70" height="70"  />  
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shkhaider2015&theme=transparent&date_format=j%20M%5B%20Y%5D)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shkhaider2015&theme=github-dark&border_radius=3.3&mode=weekly)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shkhaider2015&theme=transparent&date_format=j%20M%5B%20Y%5D)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
