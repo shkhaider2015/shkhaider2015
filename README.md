@@ -5,7 +5,7 @@ I used the tools below to work on these technologies.\
 \
 
 
-<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/angular.png" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/react.png" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/flask.png" />
+<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/angular.png" width="40" height="40" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/react.png" width="40" height="40"  />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/flask.png" width="40" height="40"  />
 
 
 \
