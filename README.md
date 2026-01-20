@@ -31,8 +31,6 @@ I’m a Full Stack Developer with 5+ years of experience building high-performan
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkhaider2015)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shkhaider2015&theme=github-dark)]
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shkhaider2015&theme=github-dark)](https://streak-stats.demolab.com/?user=shkhaider2015&theme=github-dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&theme=blue-green)
