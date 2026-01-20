@@ -4,8 +4,7 @@ In addition, I am interested in :heavy_check_mark: **Machine Learning** and :hea
 I used the tools below to work on these technologies.\
 \
 
-| Name | Status |
-|:----:|:------:|
+
 | Active | Yes |
 | Blocked | No |
 
