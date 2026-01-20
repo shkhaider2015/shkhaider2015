@@ -4,16 +4,8 @@ In addition, I am interested in :heavy_check_mark: **Machine Learning** and :hea
 I used the tools below to work on these technologies.\
 \
 
-<table>
-  <tr>
-    <td align="center">Active</td>
-    <td align="center">Yes</td>
-  </tr>
-  <tr>
-    <td align="center">Blocked</td>
-    <td align="center">No</td>
-  </tr>
-</table>
+
+<img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/angular.png" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/react.png" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/flask.png" />
 
 
 \
