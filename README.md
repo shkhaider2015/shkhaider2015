@@ -32,4 +32,6 @@ I’m a Full Stack Developer with 5+ years of experience building high-performan
 <!-- Third Line -->
 <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/typescript.png" width="70" height="70"  />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/python.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/git.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/github.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/docker.png" width="70" height="70" />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/aws.png" width="70" height="70"  />    <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/figma.png" width="70" height="70"  />     <img src="https://github.com/shkhaider2015/shkhaider2015/blob/main/asset/dark/tensorflow.png" width="70" height="70"  />  
 
+<br /> <br />
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&theme=dark&show_icons=true&hide_border=true&layout=compact)
