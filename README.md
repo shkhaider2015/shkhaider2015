@@ -34,4 +34,4 @@ I’m a Full Stack Developer with 5+ years of experience building high-performan
 
 <br /> <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shkhaider2015&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://www.shakeelhaider.com/github/stats)]
