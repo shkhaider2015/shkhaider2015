@@ -37,4 +37,4 @@ I’m a Full Stack Developer with 5+ years of experience building high-performan
 
 <br /> <br />
 
-[![GitHub Streak](https://www.shakeelhaider.com/github/stats)]
+[![GitHub Streak](https://www.shakeelhaider.com/github/stats)]()
