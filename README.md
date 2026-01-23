@@ -14,7 +14,7 @@ I’m a Full Stack Developer with 5+ years of experience building high-performan
 
 🥦 Back-end Tools ⭐⭐⭐⭐
 
-   NestJS · Flask · Django · PostgreSQL · MySQL · Firebase Database · MongoDB · TypeORM · Sequelize · Prisma · Redis · Docker · Python · TypeScript  
+   NestJS · NodeJS · ExpressJS · Flask · Django · PostgreSQL · MySQL · Firebase Database · MongoDB · TypeORM · Sequelize · Prisma · Redis · Docker · Python · TypeScript  
 <br />
 <br />
 🚀 I specialize in:  
